@@ -1,4 +1,4 @@
-name: microsocks
+name: microsocks-simosx
 version: '1.0.0'
 summary: tiny, portable SOCKS5 server with very moderate resource usage
 description: |
